@@ -58,6 +58,7 @@ This section covers data quality for traditional structured and unstructured dat
 - [Deepchecks](https://github.com/deepchecks/deepchecks) - A Python package for validating ML models and data. (2021)
 - [Provero](https://github.com/provero-org/provero) - A vendor-neutral, declarative data quality engine. Define checks in YAML and run anywhere. (2026)
 - [DataScreenIQ](https://datascreeniq.com) - A hosted real-time data quality screening API that returns PASS / WARN / BLOCK verdicts at the ingest boundary before data enters pipelines or warehouses. Detects schema drift, null spikes, and type mismatches in milliseconds. (2026)
+- [statguard](https://github.com/Mullassery/statguard) - Rust-native data quality and validation library with a Python API. Declarative contract DSL compiled to a columnar execution plan (Polars + Arrow + Rayon). Schema checks, drift detection (PSI + KS), anomaly detection, Delta Lake/Iceberg/Parquet/Avro/ORC support. 13–25× faster than pandera and Great Expectations. (2025)
 
 ### Data Readiness Assessment
 
