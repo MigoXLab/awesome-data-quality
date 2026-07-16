@@ -173,6 +173,7 @@
 
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - pandas DataFrameからプロファイルレポートを生成するツール。(2016)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - データプロファイリングとデータ品質検証のためのPythonライブラリ。(2021)
+- [Spreadsheet Data Quality Audit - Fictional Sample](https://github.com/ja9740913/spreadsheet-data-quality-audit-sample) - 固定された架空の XLSX 入力と、機密値を除いた Excel、Markdown、JSON 形式の監査出力。サンプルのみで、監査エンジンは含みません。(2026)
 
 ## 時系列データ
 
