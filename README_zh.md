@@ -174,6 +174,7 @@
 
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - 从pandas DataFrame生成概要报告的工具。(2016)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - 用于数据分析和数据质量验证的Python库。(2021)
+- [Spreadsheet Data Quality Audit - Fictional Sample](https://github.com/ja9740913/spreadsheet-data-quality-audit-sample) - 一个固定的虚构 XLSX 输入，附有脱敏的 Excel、Markdown 和 JSON 审计输出；仅为样本，不含审计引擎。(2026)
 
 ## 时间序列数据
 
