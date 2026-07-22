@@ -173,6 +173,7 @@
 
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - pandas DataFrameからプロファイルレポートを生成するツール。(2016)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - データプロファイリングとデータ品質検証のためのPythonライブラリ。(2021)
+- [CSV Row Realigner ブラウザ版](https://github.com/zhailong8845-art/csv-row-realigner-web) - ローカルブラウザで列数超過のCSV行を修復し、失敗時に停止するレコード数監査を生成するツール。(2026)
 
 ## 時系列データ
 
