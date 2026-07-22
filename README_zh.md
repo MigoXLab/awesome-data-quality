@@ -174,6 +174,7 @@
 
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - 从pandas DataFrame生成概要报告的工具。(2016)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - 用于数据分析和数据质量验证的Python库。(2021)
+- [CSV Row Realigner 浏览器版](https://github.com/zhailong8845-art/csv-row-realigner-web) - 在本地浏览器中修复超宽CSV行并生成失败关闭记录数审计的工具。(2026)
 
 ## 时间序列数据
 

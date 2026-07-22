@@ -177,6 +177,7 @@ This section covers data quality for tabular data.
 
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - A tool for generating profile reports from pandas DataFrames. (2016)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library for data profiling and data quality validation. (2021)
+- [CSV Row Realigner Browser Edition](https://github.com/zhailong8845-art/csv-row-realigner-web) - A local browser tool that repairs over-wide CSV rows and emits a fail-closed record-count audit. (2026)
 
 ## Time Series Data
 
