@@ -233,6 +233,7 @@ This section focuses on data quality management for machine learning models, fol
 
 ### Data Selection
 
+- [MIRA: Mid-training Rubric Anchoring for Source-Aware Data Selection](https://arxiv.org/abs/2605.30288) - Discovers source-specific rubrics and distills their judgments into scalable scorers for code-oriented LLM mid-training data selection. (2026)
 - [Modyn: Data-Centric Machine Learning Pipeline Orchestration](https://arxiv.org/pdf/2312.06254) - A SIGMOD paper on pipeline orchestration for data-centric machine learning. (2023)
 - [Data Selection via Optimal Control for Language Models](https://openreview.net/pdf?id=dhAL5fy8wS) - An ICLR paper on optimal control methods for data selection in language models. (2024)
 - [ADAM Optimization with Adaptive Batch Selection](https://openreview.net/pdf?id=BZrSCv2SBq) - An ICLR paper on adaptive batch selection for ADAM optimization. (2024)
@@ -246,5 +247,4 @@ This section focuses on data quality management for machine learning models, fol
 - [Improving multimodal datasets with image captioning](https://proceedings.neurips.cc/paper%5Ffiles/paper/2023/file/45e604a3e33d10fba508e755faa72345-Paper-Datasets%5Fand%5FBenchmarks.pdf) - A NeurIPS paper on improving multimodal datasets with image captioning. (2023)
 - [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://proceedings.neurips.cc/paper%5Ffiles/paper/2023/file/ae9500c4f5607caf2eff033c67daa9d7-Paper-Datasets%5Fand%5FBenchmarks.pdf) - A NeurIPS paper on using LLMs as training data generators. (2023)
 - [dcbench: A Benchmark for Data-Centric AI Systems](https://dl.acm.org/doi/pdf/10.1145/3533028.3533310) - A DEEM paper introducing a benchmark for data-centric AI systems. (2022)
-
 

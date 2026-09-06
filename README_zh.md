@@ -230,6 +230,7 @@
 
 ### 数据选择
 
+- [MIRA: Mid-training Rubric Anchoring for Source-Aware Data Selection](https://arxiv.org/abs/2605.30288) - 为不同数据来源发现评估准则，并将判断蒸馏为可扩展的评分器，用于代码导向的大语言模型中期训练数据筛选。(2026)
 - [Modyn：以数据为中心的机器学习管道编排](https://arxiv.org/pdf/2312.06254) - SIGMOD关于以数据为中心的机器学习管道编排的论文。(2023)
 - [通过最优控制进行语言模型数据选择](https://openreview.net/pdf?id=dhAL5fy8wS) - ICLR关于语言模型数据选择最优控制方法的论文。(2024)
 - [具有自适应批次选择的ADAM优化](https://openreview.net/pdf?id=BZrSCv2SBq) - ICLR关于ADAM优化自适应批次选择的论文。(2024)
