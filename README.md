@@ -59,6 +59,7 @@ This section covers data quality for traditional structured and unstructured dat
 - [Provero](https://github.com/provero-org/provero) - A vendor-neutral, declarative data quality engine. Define checks in YAML and run anywhere. (2026)
 - [DataScreenIQ](https://datascreeniq.com) - A hosted real-time data quality screening API that returns PASS / WARN / BLOCK verdicts at the ingest boundary before data enters pipelines or warehouses. Detects schema drift, null spikes, and type mismatches in milliseconds. (2026)
 - [statguard](https://github.com/Mullassery/statguard) - Rust-native data quality and validation library with a Python API. Declarative contract DSL compiled to a columnar execution plan (Polars + Arrow + Rayon). Schema checks, drift detection (PSI + KS), anomaly detection, Delta Lake/Iceberg/Parquet/Avro/ORC support. 13–25× faster than pandera and Great Expectations. (2025)
+- [csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) - A standard-library CLI that validates CSV inputs before pipeline ingestion, checking required columns, empty values, and duplicate rates; its outreach profile also supports configured suspicious company-name patterns and pass, warn, or fail results.
 
 ### Data Readiness Assessment
 
@@ -246,5 +247,4 @@ This section focuses on data quality management for machine learning models, fol
 - [Improving multimodal datasets with image captioning](https://proceedings.neurips.cc/paper%5Ffiles/paper/2023/file/45e604a3e33d10fba508e755faa72345-Paper-Datasets%5Fand%5FBenchmarks.pdf) - A NeurIPS paper on improving multimodal datasets with image captioning. (2023)
 - [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://proceedings.neurips.cc/paper%5Ffiles/paper/2023/file/ae9500c4f5607caf2eff033c67daa9d7-Paper-Datasets%5Fand%5FBenchmarks.pdf) - A NeurIPS paper on using LLMs as training data generators. (2023)
 - [dcbench: A Benchmark for Data-Centric AI Systems](https://dl.acm.org/doi/pdf/10.1145/3533028.3533310) - A DEEM paper introducing a benchmark for data-centric AI systems. (2022)
-
 
