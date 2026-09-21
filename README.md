@@ -51,6 +51,7 @@ This section covers data quality for traditional structured and unstructured dat
 - [Deequ](https://github.com/awslabs/deequ) - A library built on top of Apache Spark for defining "unit tests for data". (2018)
 - [OpenRefine](https://openrefine.org/) - A powerful tool for working with messy data, cleaning it, and transforming it. (2010)
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Generates profile reports from pandas DataFrames. (2016)
+- [csv-peek](https://github.com/CindyLiao1106/csv-peek) - A zero-dependency command line profiler for CSV/TSV files: column types, null rates, unique counts and duplicate rows. (2026)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library for automated data profiling. (2021)
 - [PyDeequ](https://github.com/awslabs/python-deequ) - Python API for Deequ, enabling "unit tests for data". (2020)
 - [Evidently](https://github.com/evidentlyai/evidently) - An open-source ML monitoring framework for data drift detection. (2021)
