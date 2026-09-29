@@ -173,6 +173,7 @@
 
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - pandas DataFrameからプロファイルレポートを生成するツール。(2016)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - データプロファイリングとデータ品質検証のためのPythonライブラリ。(2021)
+- [Spreadsheet Data Quality Audit - Fictional Sample](https://github.com/ja9740913/spreadsheet-data-quality-audit-sample) - 固定された架空の XLSX 入力と、機密値を除いた Excel、Markdown、JSON 形式の監査出力。サンプルのみで、監査エンジンは含みません。(2026)
 
 ## 時系列データ
 
@@ -229,6 +230,7 @@
 
 ### データ選択
 
+- [MIRA: Mid-training Rubric Anchoring for Source-Aware Data Selection](https://arxiv.org/abs/2605.30288) - データ源ごとに評価基準を発見し、その判定をスケーラブルなスコアモデルに蒸留することで、コード中心のLLM中間学習に用いるデータを選別する手法。(2026)
 - [Modyn：データ中心機械学習パイプライン編成](https://arxiv.org/pdf/2312.06254) - データ中心機械学習のパイプライン編成に関するSIGMOD論文。(2023)
 - [最適制御による言語モデルデータ選択](https://openreview.net/pdf?id=dhAL5fy8wS) - 言語モデルデータ選択の最適制御手法に関するICLR論文。(2024)
 - [適応バッチ選択によるADAM最適化](https://openreview.net/pdf?id=BZrSCv2SBq) - ADAM最適化の適応バッチ選択に関するICLR論文。(2024)

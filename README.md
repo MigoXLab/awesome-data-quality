@@ -51,6 +51,7 @@ This section covers data quality for traditional structured and unstructured dat
 - [Deequ](https://github.com/awslabs/deequ) - A library built on top of Apache Spark for defining "unit tests for data". (2018)
 - [OpenRefine](https://openrefine.org/) - A powerful tool for working with messy data, cleaning it, and transforming it. (2010)
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Generates profile reports from pandas DataFrames. (2016)
+- [csv-peek](https://github.com/CindyLiao1106/csv-peek) - A zero-dependency command line profiler for CSV/TSV files: column types, null rates, unique counts and duplicate rows. (2026)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library for automated data profiling. (2021)
 - [PyDeequ](https://github.com/awslabs/python-deequ) - Python API for Deequ, enabling "unit tests for data". (2020)
 - [Evidently](https://github.com/evidentlyai/evidently) - An open-source ML monitoring framework for data drift detection. (2021)
@@ -60,6 +61,7 @@ This section covers data quality for traditional structured and unstructured dat
 - [DataScreenIQ](https://datascreeniq.com) - A hosted real-time data quality screening API that returns PASS / WARN / BLOCK verdicts at the ingest boundary before data enters pipelines or warehouses. Detects schema drift, null spikes, and type mismatches in milliseconds. (2026)
 - [statguard](https://github.com/Mullassery/statguard) - Rust-native data quality and validation library with a Python API. Declarative contract DSL compiled to a columnar execution plan (Polars + Arrow + Rayon). Schema checks, drift detection (PSI + KS), anomaly detection, Delta Lake/Iceberg/Parquet/Avro/ORC support. 13–25× faster than pandera and Great Expectations. (2025)
 - [csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) - A standard-library CLI that validates CSV inputs before pipeline ingestion, checking required columns, empty values, and duplicate rates; its outreach profile also supports configured suspicious company-name patterns and pass, warn, or fail results.
+- [Bruin](https://github.com/bruin-data/bruin) - A data pipeline framework with column-level and custom SQL quality checks that run as part of each pipeline, across BigQuery, Snowflake, Postgres, Redshift, DuckDB and others. (2023)
 
 ### Data Readiness Assessment
 
@@ -178,6 +180,7 @@ This section covers data quality for tabular data.
 
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - A tool for generating profile reports from pandas DataFrames. (2016)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library for data profiling and data quality validation. (2021)
+- [Spreadsheet Data Quality Audit - Fictional Sample](https://github.com/ja9740913/spreadsheet-data-quality-audit-sample) - A fixed fictional XLSX input with redacted Excel, Markdown, and JSON audit outputs; sample only, not an audit engine. (2026)
 
 ## Time Series Data
 
@@ -234,6 +237,7 @@ This section focuses on data quality management for machine learning models, fol
 
 ### Data Selection
 
+- [MIRA: Mid-training Rubric Anchoring for Source-Aware Data Selection](https://arxiv.org/abs/2605.30288) - Discovers source-specific rubrics and distills their judgments into scalable scorers for code-oriented LLM mid-training data selection. (2026)
 - [Modyn: Data-Centric Machine Learning Pipeline Orchestration](https://arxiv.org/pdf/2312.06254) - A SIGMOD paper on pipeline orchestration for data-centric machine learning. (2023)
 - [Data Selection via Optimal Control for Language Models](https://openreview.net/pdf?id=dhAL5fy8wS) - An ICLR paper on optimal control methods for data selection in language models. (2024)
 - [ADAM Optimization with Adaptive Batch Selection](https://openreview.net/pdf?id=BZrSCv2SBq) - An ICLR paper on adaptive batch selection for ADAM optimization. (2024)

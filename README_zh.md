@@ -174,6 +174,7 @@
 
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - 从pandas DataFrame生成概要报告的工具。(2016)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - 用于数据分析和数据质量验证的Python库。(2021)
+- [Spreadsheet Data Quality Audit - Fictional Sample](https://github.com/ja9740913/spreadsheet-data-quality-audit-sample) - 一个固定的虚构 XLSX 输入，附有脱敏的 Excel、Markdown 和 JSON 审计输出；仅为样本，不含审计引擎。(2026)
 
 ## 时间序列数据
 
@@ -230,6 +231,7 @@
 
 ### 数据选择
 
+- [MIRA: Mid-training Rubric Anchoring for Source-Aware Data Selection](https://arxiv.org/abs/2605.30288) - 为不同数据来源发现评估准则，并将判断蒸馏为可扩展的评分器，用于代码导向的大语言模型中期训练数据筛选。(2026)
 - [Modyn：以数据为中心的机器学习管道编排](https://arxiv.org/pdf/2312.06254) - SIGMOD关于以数据为中心的机器学习管道编排的论文。(2023)
 - [通过最优控制进行语言模型数据选择](https://openreview.net/pdf?id=dhAL5fy8wS) - ICLR关于语言模型数据选择最优控制方法的论文。(2024)
 - [具有自适应批次选择的ADAM优化](https://openreview.net/pdf?id=BZrSCv2SBq) - ICLR关于ADAM优化自适应批次选择的论文。(2024)
