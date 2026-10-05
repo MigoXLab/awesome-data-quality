@@ -57,6 +57,7 @@
 - [Evidently](https://github.com/evidentlyai/evidently) - 用于数据漂移检测的开源ML监控框架。(2021)
 - [TensorFlow Data Validation (TFDV)](https://www.tensorflow.org/tfx/data_validation/get_started) - 大规模探索和验证ML数据的库。(2018)
 - [Deepchecks](https://github.com/deepchecks/deepchecks) - 用于验证ML模型和数据的Python包。(2021)
+- [csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) - 用于流水线摄入前校验 CSV 输入的标准库 CLI，检查必填列、空值与重复率；其 outreach 配置还支持可疑公司名模式，并返回 pass、warn 或 fail 结果。
 
 ### 数据准备度评估
 

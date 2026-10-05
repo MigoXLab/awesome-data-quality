@@ -56,6 +56,7 @@
 - [Evidently](https://github.com/evidentlyai/evidently) - データドリフト検出のためのオープンソースML監視フレームワーク。(2021)
 - [TensorFlow Data Validation (TFDV)](https://www.tensorflow.org/tfx/data_validation/get_started) - 大規模でMLデータを探索・検証するライブラリ。(2018)
 - [Deepchecks](https://github.com/deepchecks/deepchecks) - MLモデルとデータを検証するPythonパッケージ。(2021)
+- [csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) - パイプライン取り込み前にCSV入力を検証する標準ライブラリCLI。必須列・空値・重複率を検査し、outreachプロファイルでは不審な会社名パターンも設定可能で、pass / warn / fail を返します。
 
 ### データ準備度評価
 
