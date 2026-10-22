@@ -65,6 +65,7 @@ This section covers data quality for traditional structured and unstructured dat
 - [Local CSV Formula Risk Checker](https://joysky77.github.io/csv-cleanup-services/csv-formula-risk-checker.html) - A browser-local tool that reports formula-like CSV cells and positions without uploading, executing formulas, or changing the source file.
 - [Bruin](https://github.com/bruin-data/bruin) - A data pipeline framework with column-level and custom SQL quality checks that run as part of each pipeline, across BigQuery, Snowflake, Postgres, Redshift, DuckDB and others. (2023)
 - [china-usci](https://github.com/zbl1998-sdjn/china-usci) - An offline JavaScript library and CLI for 18-character Chinese USCI format and check-digit checks, with a [browser demo](https://currawongweb.com/verify/china-usci-checker/). Passing does not prove accurate transcription, registration, creditworthiness, or payment safety.
+- [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) - An open-source data quality tool that profiles database tables and files, generates data quality tests from the profiling results, and monitors freshness, volume, and schema, with a web UI. (2024)
 
 ### Data Readiness Assessment
 
