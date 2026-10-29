@@ -187,6 +187,7 @@ This section covers data quality for tabular data.
 - [Spreadsheet Data Quality Audit - Fictional Sample](https://github.com/ja9740913/spreadsheet-data-quality-audit-sample) - A fixed fictional XLSX input with redacted Excel, Markdown, and JSON audit outputs; sample only, not an audit engine. (2026)
 - [compara](https://github.com/andrey-usa/compara) - A Rust CLI for exhaustive comparison of two tabular files (CSV, TSV, NDJSON, Parquet) on a composite key, reporting row-level and column-level differences. (2026)
 - [Every Number Sample Exports](https://github.com/309dot/every-number-sample-exports) - Six sets of fictional weekly CSV and XLSX exports with known rows to leave out (test accounts, spam, duplicates, totals rows) for testing parsers and data quality checks; CC0. (2026)
+- [EnviroQC](https://github.com/LiuxinBlade/EnviroQC) - Data-quality screening for environmental monitoring CSV/XLSX tables with YAML rules and row-level traceability. (2026)
 
 ## Time Series Data
 
