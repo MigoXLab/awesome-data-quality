@@ -182,6 +182,7 @@ This section covers data quality for tabular data.
 
 ### Tools & Projects
 
+- [DataCheck](https://datacheck.cc) - Checks research data tables (CSV, TSV, XLSX) for reused values, shifted sequences and fixed-multiple patterns, tracing each finding to its source cells. (2026)
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - A tool for generating profile reports from pandas DataFrames. (2016)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library for data profiling and data quality validation. (2021)
 - [Spreadsheet Data Quality Audit - Fictional Sample](https://github.com/ja9740913/spreadsheet-data-quality-audit-sample) - A fixed fictional XLSX input with redacted Excel, Markdown, and JSON audit outputs; sample only, not an audit engine. (2026)
