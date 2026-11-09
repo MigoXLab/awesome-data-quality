@@ -47,6 +47,8 @@ This section covers data quality for traditional structured and unstructured dat
 
 ### Tools & Projects
 
+- [PageUtil CSV Fixer](https://pageutil.com/csv-fixer/) - A free browser-local tool for inspecting CSV encoding and malformed rows, reviewing text repairs, and exporting CSV or Excel with identifiers preserved as text.
+
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - A Python framework for validating, documenting, and profiling data. (2018)
 - [Deequ](https://github.com/awslabs/deequ) - A library built on top of Apache Spark for defining "unit tests for data". (2018)
 - [OpenRefine](https://openrefine.org/) - A powerful tool for working with messy data, cleaning it, and transforming it. (2010)
