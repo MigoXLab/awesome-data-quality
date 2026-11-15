@@ -184,6 +184,7 @@ This section covers data quality for tabular data.
 
 ### Tools & Projects
 
+- [feature-contracts](https://github.com/RishabhPande/feature-contracts) - Experimental Python feature-relation checks and paging with a runnable synthetic corruption example; the historical reproduction package is incomplete. (2026)
 - [DataCheck](https://datacheck.cc) - Checks research data tables (CSV, TSV, XLSX) for reused values, shifted sequences and fixed-multiple patterns, tracing each finding to its source cells. (2026)
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - A tool for generating profile reports from pandas DataFrames. (2016)
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library for data profiling and data quality validation. (2021)
