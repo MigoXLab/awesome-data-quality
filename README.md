@@ -119,6 +119,7 @@ This section covers data quality for large language model fine-tuning data.
 - [LMSYS Chatbot Arena](https://github.com/lm-sys/FastChat) - A platform for evaluating LLM responses. (2023)
 - [OpenAssistant](https://github.com/LAION-AI/Open-Assistant) - A project to create high-quality instruction-following data. (2022)
 - [Argilla](https://github.com/argilla-io/argilla) - An open-source data curation platform for LLMs. (2021)
+- [Adaption](https://docs.adaptionlabs.ai/adaptive-data/overview/) - A commercial platform that adapts and optimizes source data into model-ready fine-tuning datasets and compares quality signals for the source and adapted data. (2026)
 
 ### LLM Data Management
 
