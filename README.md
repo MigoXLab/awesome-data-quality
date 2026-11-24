@@ -70,6 +70,7 @@ This section covers data quality for traditional structured and unstructured dat
 - [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) - An open-source data quality tool that profiles database tables and files, generates data quality tests from the profiling results, and monitors freshness, volume, and schema, with a web UI. (2024)
 - [tracemodel](https://github.com/datayoga-io/tracemodel) - A Python library that runs declared checks on financial figures, such as totals that must equal the sum of their parts within a tolerance, and shows the source of each cell a failed check read. (2026)
 - [kaggle-dataset-lint](https://github.com/tb91117/kaggle-dataset-pipelines) - A standard-library CLI that checks Kaggle dataset metadata against the data files and cover image before upload. (2026)
+- [pii-scan](https://github.com/basovdanil/pii-scan) - A standard-library CLI that scans CSV exports for e-mail addresses, phone numbers, passport pairs and SNILS, reports masked examples only, and returns exit code 4 so a pipeline stops before personal data leaves the company. (2026)
 
 ### Data Readiness Assessment
 
