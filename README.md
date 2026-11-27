@@ -174,6 +174,7 @@ This section covers data quality for multimodal data, including image-text pairs
 
 ### Tools & Projects
 
+- [Autelica Capture QA API](https://app.autelica.com/check/docs/api) - A commercial API that scores real-world video captured for robot learning second by second (sync, blur, exposure, camera motion) and returns a usable/unusable timeline with a reason for each rejected second; OpenAPI 3.1 spec, self-serve API keys, free preview. (2026)
 - [CLIP-Benchmark](https://github.com/LAION-AI/CLIP-Benchmark) - A benchmark for evaluating CLIP models. (2021)
 - [img2dataset](https://github.com/rom1504/img2dataset) - A tool for efficiently downloading and processing image-text datasets. (2021)
 - [leCop](https://github.com/michele-xilo/leCop) - A fast Rust CLI that checks LeRobot robot-learning datasets (state, action and video) for broken episodes, timestamp drift, wrong stats and video/metadata mismatches, without decoding video. (2026)
