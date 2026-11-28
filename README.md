@@ -52,7 +52,7 @@ This section covers data quality for traditional structured and unstructured dat
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - A Python framework for validating, documenting, and profiling data. (2018)
 - [Deequ](https://github.com/awslabs/deequ) - A library built on top of Apache Spark for defining "unit tests for data". (2018)
 - [OpenRefine](https://openrefine.org/) - A powerful tool for working with messy data, cleaning it, and transforming it. (2010)
-- [Free CSV Cleaner](https://gougousongsong.github.io/etsy-fee-calculator/csv-cleaner/) - Browser-local CSV cleaner (no upload) that trims, deduplicates, normalises dates and money, and flags ambiguous cells such as decimal commas and impossible dates for human review instead of guessing. (2026)
+- [Free CSV Cleaner](https://tools.gougousongsong.dpdns.org/csv-cleaner/) - Browser-local CSV cleaner (no upload) that trims, deduplicates, normalises dates and money, and flags ambiguous cells such as decimal commas and impossible dates for human review instead of guessing. (2026)
 - [CSV Rescue Kit](https://csv-rescue-kit-20261002.samgelosh.chatgpt.site) - Offline browser HTML CSV cleaner with trimming and exact-row deduplication; free 100-row demo and a $19 one-time paid proprietary full kit. (2026)
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Generates profile reports from pandas DataFrames. (2016)
 - [csv-peek](https://github.com/CindyLiao1106/csv-peek) - A zero-dependency command line profiler for CSV/TSV files: column types, null rates, unique counts and duplicate rows. (2026)
